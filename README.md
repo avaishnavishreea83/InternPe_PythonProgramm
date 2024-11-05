@@ -8,6 +8,8 @@ Connect Four is a grid-based game where players alternate dropping colored discs
 
 
 
+
+
 Tic Tac Toe 
 
 A classic Tic Tac Toe game implemented in Python using Object-Oriented Programming. This game allows two players to alternate turns, marking spaces on a 3x3 grid until one player aligns three of their marks in a row, column, or diagonal. The project showcases OOP concepts such as encapsulation and modular design, making the game logic reusable and easy to understand.
