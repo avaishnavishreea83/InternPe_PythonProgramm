@@ -21,7 +21,7 @@ A classic Tic Tac Toe game implemented in Python using Object-Oriented Programmi
 
 3 Digital Clock
 
-A real-time digital clock application developed using Python's OOP principles. This clock displays the current time in hours, minutes, and seconds, updating dynamically. Built with a user-friendly interface, this project demonstrates the use of classes and methods to manage time-based functionality efficiently.
+
 
 
 
