@@ -15,3 +15,10 @@ Connect Four is a grid-based game where players alternate dropping colored discs
 A classic Tic Tac Toe game implemented in Python using Object-Oriented Programming. This game allows two players to alternate turns, marking spaces on a 3x3 grid until one player aligns three of their marks in a row, column, or diagonal. The project showcases OOP concepts such as encapsulation and modular design, making the game logic reusable and easy to understand.
 
 ![Tic_Tac_Toe](https://github.com/user-attachments/assets/5080d74f-d549-40b3-a743-e421f9fbf997)
+
+
+
+
+3 Digital Clock
+
+A real-time digital clock application developed using Python's OOP principles. This clock displays the current time in hours, minutes, and seconds, updating dynamically. Built with a user-friendly interface, this project demonstrates the use of classes and methods to manage time-based functionality efficiently.
